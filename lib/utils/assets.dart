@@ -1,0 +1,30 @@
+class AppAssets {
+  static const String welcomeAsset = "assets/images/welcome.png";
+  static const String productAsset = "assets/images/product.png";
+  static const String product2 = "assets/images/product2.png";
+  static const String review1 = "assets/images/review1.png";
+  static const String review2 = "assets/images/review2.png";
+  static const String product3 = "assets/images/lihna_tunic_white.png";
+  static const String product4 = "assets/images/skirt_dress.png";
+  static const String product5 = "assets/images/linen_dress.png";
+  static const String product6 = "assets/images/filted_waist_dress.png";
+  static const String product7 = "assets/images/sportswear_set.png";
+  static const String product8 = "assets/images/off_shoulder_dress.png";
+  static const String product9 = "assets/images/maxi_dress.png";
+  static const String onBoarding1 = "assets/images/onBoarding1.png";
+  static const String onBoarding2 = "assets/images/onBoarding2.png";
+  static const String onBoarding3 = "assets/images/onBoarding3.png";
+  static const String faceBookAsset = 'assets/images/facebook.svg';
+  static const String googleAsset = 'assets/images/google-svgrepo-com.svg';
+  static const String success = 'assets/images/Success.png';
+  static const String banner = 'assets/images/banner.png';
+  static const String categories = 'assets/images/categories.svg';
+  static const String newCollection = 'assets/images/newCollection.png';
+  static const String topCollection1 = 'assets/images/topCollection1.png';
+  static const String topCollection2 = 'assets/images/topCollection2.png';
+  static const String topCollection3 = 'assets/images/topCollection3.png';
+  static const String topCollection4 = 'assets/images/topCollection4.png';
+  static const String product1 = 'assets/images/product1.png';
+  static const String product33 = 'assets/images/longsleevedress.png';
+  static const String girl = 'assets/images/girl.svg';
+}
